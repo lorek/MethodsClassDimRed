@@ -4,6 +4,7 @@
 
 ## About
 Mainly assignments from "Methods of Classification and Dimensionality Reduction"
+
 You are browsing **2023/2024 edition**
 
 

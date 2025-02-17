@@ -7,6 +7,8 @@ Mainly assignments from "Methods of Classification and Dimensionality Reduction"
 
 You are browsing **2023/2024 edition**
 
+For current and previous editions, see [https://github.com/lorek/MethodsClassDimRed](https://github.com/lorek/MethodsClassDimRed)
+
 
 ## Suggested workflow
 

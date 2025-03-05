@@ -6,9 +6,9 @@ import argparse
 import pickle
 
 # Import from our modules (assuming these files are inside the /models folder)
-from models.my_functions import sum_of_squares
-from models.linear_regression import myLinearRegression1D
-from models.my_utils import generate_data
+from modules.my_functions import sum_of_squares
+from modules.linear_regression import myLinearRegression1D
+from modules.my_utils import generate_data
 
 
 ## Typical usage:

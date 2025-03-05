@@ -3,7 +3,7 @@
 
 This is a sample machine learning project designed to demonstrate good coding practices in Python, including:
 
-- **Modular Code Organization:** Functions and classes are separated into dedicated modules (e.g., in the `models` folder).
+- **Modular Code Organization:** Functions and classes are separated into dedicated modules (e.g., in the `modules` folder).
 - **Command-Line Argument Parsing:** The project uses `argparse` to allow flexible configuration.
 - **Environment Management:** The project uses Conda to manage dependencies.
 - **Data Handling:** Data is generated, saved (CSV, pickle), and loaded using dedicated utility modules.
@@ -16,7 +16,7 @@ This is a sample machine learning project designed to demonstrate good coding pr
   ```python
 my_ml_project/
   ├── data/                 # Data files (CSV, images, etc.)
-  ├── models/               # Python modules: classes and functions
+  ├── modules/               # Python modules: classes and functions
   │   └── linear_regression.py
   │   └── my_functions.py
   │   └── my_utils.py
@@ -64,7 +64,7 @@ Usage
 The project is organized to promote good coding practices:
 
 * **Modularization:** 
-All helper functions and models are stored in the models folder.
+All helper functions and models are stored in the `modules` folder.
 
 * **Argument Parsing:**
 The main script (`main.py`) uses `argparse` to allow configurable options.

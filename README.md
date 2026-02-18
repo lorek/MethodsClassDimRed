@@ -8,6 +8,8 @@ Mainly assignments from "Methods of Classification and Dimensionality Reduction"
 You are browsing **2024/2025 edition**
 
 Previous editions:
+* [2024/2025](https://github.com/lorek/MethodsClassDimRed/tree/2024_25)
+
 * [2023/2024](https://github.com/lorek/MethodsClassDimRed/tree/2023_24)
 
 
